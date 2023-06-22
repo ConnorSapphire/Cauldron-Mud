@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond"
+        },
+        "title": "Invisible Item Frame",
+        "frame": "challenge",
+        "description": ["",{"text":"Sapphire Packs Datapack Collection\n","color":"gold"},{"text":"https://www.planetminecraft.com/member/connorsapphire/","color":"yellow"}],
+        "background": "minecraft:textures/block/white_concrete.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
